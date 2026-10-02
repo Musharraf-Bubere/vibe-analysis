@@ -19,7 +19,9 @@ The dashboard includes returns as recorded in the fact table. Orders without a v
 
 ## 🖼️ Screenshots
 
-Screenshots can be added here as `docs/images/dashboard-overview.png` and `docs/images/dashboard-filters.png` once captured from a browser preview.
+### Sales performance dashboard
+
+![Sales performance dashboard showing the summary KPIs, filters, monthly trend, category revenue, regional profit, and top products](dashboard-screenshot.png)
 
 ## 🛠️ Rebuild the dashboard
 
